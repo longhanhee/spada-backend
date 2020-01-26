@@ -1,6 +1,6 @@
 package com.hanhee.spada.dao;
 
-import com.hanhee.spada.elasticsearch.model.EsProduct;
+import com.hanhee.spada.technology.elasticsearch.model.EsProduct;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

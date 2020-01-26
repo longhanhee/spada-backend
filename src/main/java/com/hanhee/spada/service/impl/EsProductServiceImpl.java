@@ -2,8 +2,8 @@ package com.hanhee.spada.service.impl;
 
 
 import com.hanhee.spada.dao.EsProductDao;
-import com.hanhee.spada.elasticsearch.model.EsProduct;
-import com.hanhee.spada.elasticsearch.repository.EsProductRepository;
+import com.hanhee.spada.technology.elasticsearch.model.EsProduct;
+import com.hanhee.spada.technology.elasticsearch.repository.EsProductRepository;
 import com.hanhee.spada.service.EsProductService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

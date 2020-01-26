@@ -1,7 +1,7 @@
 package com.hanhee.spada.service.impl;
 
 
-import com.hanhee.spada.common.api.CommonResult;
+import com.hanhee.spada.technology.common.api.CommonResult;
 import com.hanhee.spada.service.RedisService;
 import com.hanhee.spada.service.UmsMemberService;
 import lombok.Data;

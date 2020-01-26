@@ -1,7 +1,7 @@
 package com.hanhee.spada.controller;
 
 
-import com.hanhee.spada.common.api.CommonResult;
+import com.hanhee.spada.technology.common.api.CommonResult;
 import com.hanhee.spada.model_param.UmsAdminLoginParam;
 import com.hanhee.spada.model.UmsAdmin;
 import com.hanhee.spada.model.UmsPermission;

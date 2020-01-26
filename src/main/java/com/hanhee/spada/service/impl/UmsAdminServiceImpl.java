@@ -7,7 +7,7 @@ import com.hanhee.spada.model.UmsAdmin;
 import com.hanhee.spada.model.UmsAdminExample;
 import com.hanhee.spada.model.UmsPermission;
 import com.hanhee.spada.service.UmsAdminService;
-import com.hanhee.spada.utils.JwtTokenUtil;
+import com.hanhee.spada.technology.utils.JwtTokenUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeanUtils;

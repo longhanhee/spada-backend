@@ -1,6 +1,6 @@
 package com.hanhee.spada.service;
 
-import com.hanhee.spada.common.api.CommonResult;
+import com.hanhee.spada.technology.common.api.CommonResult;
 
 public interface UmsMemberService {
 

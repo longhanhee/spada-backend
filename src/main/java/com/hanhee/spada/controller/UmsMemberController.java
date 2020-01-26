@@ -1,6 +1,6 @@
 package com.hanhee.spada.controller;
 
-import com.hanhee.spada.common.api.CommonResult;
+import com.hanhee.spada.technology.common.api.CommonResult;
 import com.hanhee.spada.model_param.VerifyAuthCodeParam;
 import com.hanhee.spada.service.UmsMemberService;
 import io.swagger.annotations.Api;

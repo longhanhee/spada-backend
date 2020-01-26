@@ -1,7 +1,7 @@
 package com.hanhee.spada.service;
 
 
-import com.hanhee.spada.elasticsearch.model.EsProduct;
+import com.hanhee.spada.technology.elasticsearch.model.EsProduct;
 import org.springframework.data.domain.Page;
 
 import java.util.List;

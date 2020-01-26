@@ -17,7 +17,7 @@
         <plugin type="org.mybatis.generator.plugins.ToStringPlugin"/>
         <!--Ghi đè tệp gốc khi tạo mapper.xml-->
         <plugin type="org.mybatis.generator.plugins.UnmergeableXmlMappersPlugin" />
-        <commentGenerator type="com.hanhee.spada.common.CommentGenerator">
+        <commentGenerator type="com.hanhee.spada.technology.common.CommentGenerator">
             <!-- 是否去除自动生成的注释 true：是 ： false:否 -->
             <property name="suppressAllComments" value="true"/>
             <property name="suppressDate" value="true"/>
@@ -59,6 +59,10 @@
             <generatedKey column="id" sqlStatement="MySql" identity="true"/>
         </table>
         <table tableName="ums_admin_permission_relation">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+        </table>
+
+        <table tableName="slide">
             <generatedKey column="id" sqlStatement="MySql" identity="true"/>
         </table>
 

@@ -1,9 +1,9 @@
 package com.hanhee.spada.controller;
 
 
-import com.hanhee.spada.common.api.CommonPage;
-import com.hanhee.spada.common.api.CommonResult;
-import com.hanhee.spada.elasticsearch.model.EsProduct;
+import com.hanhee.spada.technology.common.api.CommonPage;
+import com.hanhee.spada.technology.common.api.CommonResult;
+import com.hanhee.spada.technology.elasticsearch.model.EsProduct;
 import com.hanhee.spada.service.EsProductService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

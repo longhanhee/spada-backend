@@ -1,6 +1,6 @@
 package com.hanhee.spada.config;
 
-import com.hanhee.spada.rabbitmq.QueueEnum;
+import com.hanhee.spada.technology.rabbitmq.QueueEnum;
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
