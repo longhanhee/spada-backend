@@ -10,6 +10,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  */
 @Configuration
 @EnableTransactionManagement
-@MapperScan({"com.hanhee.spada.mbg.mapper", "com.hanhee.spada.dto.mapper", "com.hanhee.spada.dao"})
+@MapperScan({"com.hanhee.spada.mapper", "com.hanhee.spada.dao"})
 public class MyBatisConfig {
 }

@@ -1,10 +1,11 @@
 package com.hanhee.spada.service.impl;
 
-import com.hanhee.spada.dto.mapper.UmsAdminRoleRelationDao;
-import com.hanhee.spada.mbg.mapper.UmsAdminMapper;
-import com.hanhee.spada.mbg.model.UmsAdmin;
-import com.hanhee.spada.mbg.model.UmsAdminExample;
-import com.hanhee.spada.mbg.model.UmsPermission;
+import com.hanhee.spada.dao.UmsAdminRoleRelationDao;
+
+import com.hanhee.spada.mapper.UmsAdminMapper;
+import com.hanhee.spada.model.UmsAdmin;
+import com.hanhee.spada.model.UmsAdminExample;
+import com.hanhee.spada.model.UmsPermission;
 import com.hanhee.spada.service.UmsAdminService;
 import com.hanhee.spada.utils.JwtTokenUtil;
 import org.slf4j.Logger;

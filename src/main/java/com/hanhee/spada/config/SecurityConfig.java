@@ -1,9 +1,9 @@
 package com.hanhee.spada.config;
 
 
-import com.hanhee.spada.dto.AdminUserDetails;
-import com.hanhee.spada.mbg.model.UmsAdmin;
-import com.hanhee.spada.mbg.model.UmsPermission;
+import com.hanhee.spada.model_param.AdminUserDetails;
+import com.hanhee.spada.model.UmsAdmin;
+import com.hanhee.spada.model.UmsPermission;
 import com.hanhee.spada.security.JwtAuthenticationTokenFilter;
 import com.hanhee.spada.security.RestAuthenticationEntryPoint;
 import com.hanhee.spada.security.RestfulAccessDeniedHandler;

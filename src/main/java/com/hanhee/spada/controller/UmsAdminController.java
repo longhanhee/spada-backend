@@ -2,9 +2,9 @@ package com.hanhee.spada.controller;
 
 
 import com.hanhee.spada.common.api.CommonResult;
-import com.hanhee.spada.dto.UmsAdminLoginParam;
-import com.hanhee.spada.mbg.model.UmsAdmin;
-import com.hanhee.spada.mbg.model.UmsPermission;
+import com.hanhee.spada.model_param.UmsAdminLoginParam;
+import com.hanhee.spada.model.UmsAdmin;
+import com.hanhee.spada.model.UmsPermission;
 import com.hanhee.spada.service.UmsAdminService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

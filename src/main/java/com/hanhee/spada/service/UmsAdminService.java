@@ -1,7 +1,7 @@
 package com.hanhee.spada.service;
 
-import com.hanhee.spada.mbg.model.UmsAdmin;
-import com.hanhee.spada.mbg.model.UmsPermission;
+import com.hanhee.spada.model.UmsAdmin;
+import com.hanhee.spada.model.UmsPermission;
 
 import java.util.List;
 
